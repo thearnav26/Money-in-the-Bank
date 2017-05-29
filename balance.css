@@ -1,0 +1,44 @@
+ .container{
+	width: 620px;
+	padding: 4% 4% 4%;
+	margin : auto;
+	box-shadow: 10px 10px 5px #888888;
+	background-color: #fff;
+	text-align: center;
+	position:relative;
+	top:50px;
+	vertical-align: middle;
+}
+
+
+h3{
+	color:#1f00a8;
+	font-family: helvetica;
+}
+
+a{
+	color:#f00f53;
+	text-decoration: none;
+	align-content: right;
+}
+
+button{
+	margin :10px;
+	padding:5px;
+	font-weight: bold;
+	background-color: #ff474a;
+	text-align: center;
+	color:white;
+}
+
+.bal{
+	width :380px;
+}
+
+button:hover {
+  background: #a30003;
+}
+
+body{
+	background-color: #ff85a9;
+}
