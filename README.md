@@ -4,7 +4,7 @@ Basic Banking Website using PHP and MYSQL
 The Database here, named "ATM" uses two tables:
 "users" and "Passbook"
 
-users Structure:
+1. users Structure:
 
 id        int           not NUll  AutoIncrement(Primary Key)
 
@@ -14,7 +14,7 @@ password  varchar(50)   not NUll
 
 
 
-Passbook Structure:
+2. Passbook Structure:
 
 id				        	int				      not NULL		AutoIncrement(PRIMARY KEY)
 
