@@ -14,6 +14,8 @@ password  varchar(50)   not NUll
 
 
 
+
+
 2. Passbook Structure:
 
 id				        	int				      not NULL		AutoIncrement(PRIMARY KEY)
